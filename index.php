@@ -1,4 +1,4 @@
 <?php
-echo "<h1>Welcome to my PHP Demo Site!</h1>";
+echo "<h1Strona po zmianie!</h1>";
 phpinfo();
 ?>
